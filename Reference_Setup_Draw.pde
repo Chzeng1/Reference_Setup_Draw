@@ -7,3 +7,4 @@ void setup() {
 void draw() {
   fill(random(0, 56));
   rect(mouseX, mouseY, 100, mouseY);
+}
